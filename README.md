@@ -20,17 +20,17 @@
 
 ***
 
-<!-- ## 2. JavaScript Project02: Basic Counter
+## 2. JavaScript Project02: Basic Counter
 
 ***
 
 ![Badge](https://img.shields.io/badge/PROJECT-REPOSITORY-brightgreen) 
-### [HERE](https://github.com/RohitChandaniDE/FSJS-Color-Changer-JavaScript-Project)
+### [HERE](https://github.com/RohitChandaniDE/FSJS-Basic-Counter-JavaScript-Project)
 
 ***
 
 ![Badge](https://img.shields.io/badge/PROJECT%20LINK-BELOW-lightgrey) 
-### [HERE](https://fsjs-color-changer-javascript-project.netlify.app/)
+### [HERE](https://fsjs-basic-counter-javascript-project.netlify.app/)
 
 ***
 
@@ -39,12 +39,12 @@
 ***
 
 ![Badge](https://img.shields.io/badge/PROJECT-REPOSITORY-yellowgreen) 
-### [HERE](https://github.com/RohitChandaniDE/FSJS-Color-Changer-JavaScript-Project)
+### [HERE](https://github.com/RohitChandaniDE/FSJS-Click-The-Button-JavaScript-Project)
 
 ***
 
 ![Badge](https://img.shields.io/badge/PROJECT%20LINK-BELOW-lightgrey) 
-### [HERE](https://fsjs-color-changer-javascript-project.netlify.app/)
+### [HERE](https://fsjs-click-the-button-js-project.netlify.app/)
 
 ***
 
@@ -53,12 +53,12 @@
 ***
 
 ![Badge](https://img.shields.io/badge/PROJECT-REPOSITORY-yellow) 
-### [HERE](https://github.com/RohitChandaniDE/FSJS-Color-Changer-JavaScript-Project)
+### [HERE](https://github.com/RohitChandaniDE/FSJS-See-What-You-Type-JavaScript-Project)
 
 ***
 
 ![Badge](https://img.shields.io/badge/PROJECT%20LINK-BELOW-lightgrey) 
-### [HERE](https://fsjs-color-changer-javascript-project.netlify.app/)
+### [HERE](https://fsjs-see-what-you-type-js-project.netlify.app/)
 
 ***
 
@@ -67,12 +67,12 @@
 ***
 
 ![Badge](https://img.shields.io/badge/PROJECT-REPOSITORY-orange) 
-### [HERE](https://github.com/RohitChandaniDE/FSJS-Color-Changer-JavaScript-Project)
+### [HERE](https://github.com/RohitChandaniDE/FSJS-Name-Conversion-JavaScript-Project)
 
 ***
 
 ![Badge](https://img.shields.io/badge/PROJECT%20LINK-BELOW-lightgrey) 
-### [HERE](https://fsjs-color-changer-javascript-project.netlify.app/)
+### [HERE](https://fsjs-name-conversion-js-project.netlify.app/)
 
 ***
 
@@ -81,12 +81,12 @@
 ***
 
 ![Badge](https://img.shields.io/badge/PROJECT-REPOSITORY-red) 
-### [HERE](https://github.com/RohitChandaniDE/FSJS-Color-Changer-JavaScript-Project)
+### [HERE](https://github.com/RohitChandaniDE/FSJS-Accordion-JavaScript-Project)
 
 ***
 
 ![Badge](https://img.shields.io/badge/PROJECT%20LINK-BELOW-lightgrey) 
-### [HERE](https://fsjs-color-changer-javascript-project.netlify.app/)
+### [HERE](https://fsjs-accordion-javascript-project.netlify.app/)
 
 ***
 
@@ -95,12 +95,12 @@
 ***
 
 ![Badge](https://img.shields.io/badge/PROJECT-REPOSITORY-blue) 
-### [HERE](https://github.com/RohitChandaniDE/FSJS-Color-Changer-JavaScript-Project)
+### [HERE](https://github.com/RohitChandaniDE/FSJS-Age-Calculator-JavaScript-Project)
 
 ***
 
 ![Badge](https://img.shields.io/badge/PROJECT%20LINK-BELOW-lightgrey) 
-### [HERE](https://fsjs-color-changer-javascript-project.netlify.app/)
+### [HERE](https://fsjs-age-calculator-js-project.netlify.app/)
 
-*** -->
+
 
